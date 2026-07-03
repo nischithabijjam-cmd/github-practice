@@ -10,5 +10,5 @@ A simple, interactive number guessing game written in Python using a Jupyter Not
 ## How to Run
 Make sure you have Jupyter installed, then run:
 ```bash
-jupyter notebook guessing_game.ipynb
+jupyter notebook guessing_game(1).ipynb
 ```
